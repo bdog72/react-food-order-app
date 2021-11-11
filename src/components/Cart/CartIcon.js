@@ -1,6 +1,3 @@
-//
-//
-
 const CartIcon = () => {
   return (
     <svg

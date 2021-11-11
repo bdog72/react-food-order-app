@@ -1,6 +1,3 @@
-//
-//
-
 import { Fragment } from 'react';
 
 import MealsSummary from './MealsSummary';
